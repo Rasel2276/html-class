@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+body{
+    background-color: #f2f5f9;
+}
+.form-value{
+    background-color: #128C7E;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 30px #00000070;
+}
+.form-value:hover{
+    background-color: #075E54;
+}

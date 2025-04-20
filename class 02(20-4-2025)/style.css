@@ -36,21 +36,21 @@ body{
     font-size: 15px;
 }
 .pricing-card a {
-    border: 1px solid rgb(223, 210, 210);
+    border: 0.5px solid #F4B400;
     text-decoration: none;
     margin-top:20px;
     padding:5px;
     font-size: 12px;
    display: inline-block;
-   background-color: blue;
+   background-color: #FF00BF;
    color: #ffff;
    border-radius:50px;
 }
 .pricing-card a:hover{
-    background-color: rgb(208, 59, 228);
+    background-color: #FC642D;
 }
 .pricing-card:hover{
-    background-color: rgb(204, 247, 247);
+    background-color:#0F9D58;
 }
 .pricing-card{
     box-shadow: 0px 8px 30px #00000070;
